@@ -1,5 +1,5 @@
 {
-    "name": "bender/saved",
+    "name": "dre_bender/saved",
     "description": "Hiermit ist meine Vendor ID gespeichert",
     "require": {
         "php": ">=7.2"
